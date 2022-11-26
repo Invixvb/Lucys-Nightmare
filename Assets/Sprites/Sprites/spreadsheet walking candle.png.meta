@@ -1,0 +1,970 @@
+fileFormatVersion: 2
+guid: 8932e8b93a29db341aa0467630eb31bf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4033854170570679099
+    second: spreadsheet walking candle_0
+  - first:
+      213: -3300226180937289445
+    second: spreadsheet walking candle_1
+  - first:
+      213: 8628214820438748761
+    second: spreadsheet walking candle_2
+  - first:
+      213: -233796497462172544
+    second: spreadsheet walking candle_3
+  - first:
+      213: -2210229465433474539
+    second: spreadsheet walking candle_4
+  - first:
+      213: -7834463983200288453
+    second: spreadsheet walking candle_5
+  - first:
+      213: 6173749686923963265
+    second: spreadsheet walking candle_6
+  - first:
+      213: 2062715170356629232
+    second: spreadsheet walking candle_7
+  - first:
+      213: 8336566850885912094
+    second: spreadsheet walking candle_8
+  - first:
+      213: -3961149248528789925
+    second: spreadsheet walking candle_9
+  - first:
+      213: -7360719117811024855
+    second: spreadsheet walking candle_10
+  - first:
+      213: 929626649188264600
+    second: spreadsheet walking candle_11
+  - first:
+      213: -4719453762918776112
+    second: spreadsheet walking candle_12
+  - first:
+      213: 6960346987514448576
+    second: spreadsheet walking candle_13
+  - first:
+      213: 49472573636556674
+    second: spreadsheet walking candle_14
+  - first:
+      213: -5181985895743091949
+    second: spreadsheet walking candle_15
+  - first:
+      213: -2668700993876220900
+    second: spreadsheet walking candle_16
+  - first:
+      213: -5930619178245574932
+    second: spreadsheet walking candle_17
+  - first:
+      213: 5906625304113842366
+    second: spreadsheet walking candle_18
+  - first:
+      213: 7642523247786979121
+    second: spreadsheet walking candle_19
+  - first:
+      213: -1302279650851131159
+    second: spreadsheet walking candle_20
+  - first:
+      213: 4118664938912549928
+    second: spreadsheet walking candle_21
+  - first:
+      213: -1547048597028764477
+    second: spreadsheet walking candle_22
+  - first:
+      213: 79818375725953376
+    second: spreadsheet walking candle_23
+  - first:
+      213: 2826378544051968475
+    second: spreadsheet walking candle_24
+  - first:
+      213: 299080825504867571
+    second: spreadsheet walking candle_25
+  - first:
+      213: 3922079811341054184
+    second: spreadsheet walking candle_26
+  - first:
+      213: 4058589332912511504
+    second: spreadsheet walking candle_27
+  - first:
+      213: -7552116668019844659
+    second: spreadsheet walking candle_28
+  - first:
+      213: -8499179686502668414
+    second: spreadsheet walking candle_29
+  - first:
+      213: 7737575006159651042
+    second: spreadsheet walking candle_30
+  - first:
+      213: -1523734975901663924
+    second: spreadsheet walking candle_31
+  - first:
+      213: 5132222382362184584
+    second: spreadsheet walking candle_32
+  - first:
+      213: 3278269219607118989
+    second: spreadsheet walking candle_33
+  - first:
+      213: -1715119424406588061
+    second: spreadsheet walking candle_34
+  - first:
+      213: 9034252466193414589
+    second: spreadsheet walking candle_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spreadsheet walking candle_0
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 5453
+        width: 509
+        height: 918
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33e790fef02bf730800000000000000
+      internalID: 4033854170570679099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spreadsheet walking candle_1
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 5457
+        width: 510
+        height: 918
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11f9c616cd3332d0800000000000000
+      internalID: -3300226180937289445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spreadsheet walking candle_2
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 5460
+        width: 512
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e230a3aa39db770800000000000000
+      internalID: 8628214820438748761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spreadsheet walking candle_3
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 5466
+        width: 509
+        height: 917
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0846903035361ccf0800000000000000
+      internalID: -233796497462172544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spreadsheet walking candle_4
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 5469
+        width: 509
+        height: 918
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a7cb0f200b351e0800000000000000
+      internalID: -2210229465433474539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spreadsheet walking candle_5
+      rect:
+        serializedVersion: 2
+        x: 3070
+        y: 5474
+        width: 512
+        height: 916
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3141cb1484664390800000000000000
+      internalID: -7834463983200288453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spreadsheet walking candle_6
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 4400
+        width: 509
+        height: 914
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b284d51a09da550800000000000000
+      internalID: 6173749686923963265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spreadsheet walking candle_7
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 4406
+        width: 509
+        height: 911
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe8ae9c48c30ac10800000000000000
+      internalID: 2062715170356629232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spreadsheet walking candle_8
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 4408
+        width: 511
+        height: 912
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e160a51c16f61b370800000000000000
+      internalID: 8336566850885912094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spreadsheet walking candle_9
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 4409
+        width: 509
+        height: 914
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ec22bdebb2709c0800000000000000
+      internalID: -3961149248528789925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spreadsheet walking candle_10
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 4412
+        width: 509
+        height: 915
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c727b06f879d990800000000000000
+      internalID: -7360719117811024855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spreadsheet walking candle_11
+      rect:
+        serializedVersion: 2
+        x: 3070
+        y: 4416
+        width: 512
+        height: 914
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a6a961382b6ec00800000000000000
+      internalID: 929626649188264600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spreadsheet walking candle_12
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 3331
+        width: 509
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2885faec1218eb0800000000000000
+      internalID: -4719453762918776112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spreadsheet walking candle_13
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 3327
+        width: 511
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca424825be189060800000000000000
+      internalID: 6960346987514448576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spreadsheet walking candle_14
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 3324
+        width: 509
+        height: 924
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2873bb92b03cfa000800000000000000
+      internalID: 49472573636556674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spreadsheet walking candle_15
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 3318
+        width: 509
+        height: 930
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b062d7843e518b0800000000000000
+      internalID: -5181985895743091949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spreadsheet walking candle_16
+      rect:
+        serializedVersion: 2
+        x: 2469
+        y: 3311
+        width: 512
+        height: 934
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14a640e59ed6fad0800000000000000
+      internalID: -2668700993876220900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spreadsheet walking candle_17
+      rect:
+        serializedVersion: 2
+        x: 3070
+        y: 3305
+        width: 509
+        height: 940
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceead86774532bda0800000000000000
+      internalID: -5930619178245574932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spreadsheet walking candle_18
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 2220
+        width: 509
+        height: 942
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb80a016b6c88f150800000000000000
+      internalID: 5906625304113842366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spreadsheet walking candle_19
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 2215
+        width: 512
+        height: 947
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13fe10ce662bf0a60800000000000000
+      internalID: 7642523247786979121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spreadsheet walking candle_20
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 2213
+        width: 509
+        height: 949
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e07cccae8f5dede0800000000000000
+      internalID: -1302279650851131159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spreadsheet walking candle_21
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 2211
+        width: 509
+        height: 948
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c0db8b0ff682930800000000000000
+      internalID: 4118664938912549928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spreadsheet walking candle_22
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 2213
+        width: 511
+        height: 946
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c485d36f77c78ae0800000000000000
+      internalID: -1547048597028764477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spreadsheet walking candle_23
+      rect:
+        serializedVersion: 2
+        x: 3070
+        y: 2215
+        width: 512
+        height: 944
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061b1bbc3629b1100800000000000000
+      internalID: 79818375725953376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spreadsheet walking candle_24
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1139
+        width: 509
+        height: 938
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9d00f9f40593720800000000000000
+      internalID: 2826378544051968475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spreadsheet walking candle_25
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1138
+        width: 509
+        height: 936
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4295b1d6c862400800000000000000
+      internalID: 299080825504867571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spreadsheet walking candle_26
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 1134
+        width: 512
+        height: 940
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0f6bfeec60e6630800000000000000
+      internalID: 3922079811341054184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spreadsheet walking candle_27
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 1132
+        width: 509
+        height: 939
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a9075be71035830800000000000000
+      internalID: 4058589332912511504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spreadsheet walking candle_28
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 1131
+        width: 510
+        height: 937
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9de5c37ed713790800000000000000
+      internalID: -7552116668019844659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spreadsheet walking candle_29
+      rect:
+        serializedVersion: 2
+        x: 3071
+        y: 1129
+        width: 511
+        height: 938
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287eacf0b19dc0a80800000000000000
+      internalID: -8499179686502668414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spreadsheet walking candle_30
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 49
+        width: 512
+        height: 936
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e046110973616b60800000000000000
+      internalID: 7737575006159651042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spreadsheet walking candle_31
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 48
+        width: 510
+        height: 934
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4dfa8dcc1b9adae0800000000000000
+      internalID: -1523734975901663924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spreadsheet walking candle_32
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 49
+        width: 511
+        height: 930
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88bc109a011593740800000000000000
+      internalID: 5132222382362184584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spreadsheet walking candle_33
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 49
+        width: 512
+        height: 930
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8487c87c70ce7d20800000000000000
+      internalID: 3278269219607118989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spreadsheet walking candle_34
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 49
+        width: 510
+        height: 927
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3657fd878fba238e0800000000000000
+      internalID: -1715119424406588061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spreadsheet walking candle_35
+      rect:
+        serializedVersion: 2
+        x: 3071
+        y: 52
+        width: 511
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9b7a2a0cc106d70800000000000000
+      internalID: 9034252466193414589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
