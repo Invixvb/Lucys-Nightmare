@@ -111,7 +111,7 @@ TextureImporter:
       213: 9034252466193414589
     second: spreadsheet walking candle_35
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -132,6 +132,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -140,9 +141,9 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
-    aniso: -1
-    mipBias: -100
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -163,11 +164,14 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -183,6 +187,30 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -962,6 +990,43 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      spreadsheet walking candle_24: 2826378544051968475
+      spreadsheet walking candle_22: -1547048597028764477
+      spreadsheet walking candle_28: -7552116668019844659
+      spreadsheet walking candle_31: -1523734975901663924
+      spreadsheet walking candle_25: 299080825504867571
+      spreadsheet walking candle_4: -2210229465433474539
+      spreadsheet walking candle_23: 79818375725953376
+      spreadsheet walking candle_20: -1302279650851131159
+      spreadsheet walking candle_5: -7834463983200288453
+      spreadsheet walking candle_26: 3922079811341054184
+      spreadsheet walking candle_1: -3300226180937289445
+      spreadsheet walking candle_16: -2668700993876220900
+      spreadsheet walking candle_32: 5132222382362184584
+      spreadsheet walking candle_12: -4719453762918776112
+      spreadsheet walking candle_7: 2062715170356629232
+      spreadsheet walking candle_35: 9034252466193414589
+      spreadsheet walking candle_30: 7737575006159651042
+      spreadsheet walking candle_3: -233796497462172544
+      spreadsheet walking candle_17: -5930619178245574932
+      spreadsheet walking candle_11: 929626649188264600
+      spreadsheet walking candle_10: -7360719117811024855
+      spreadsheet walking candle_6: 6173749686923963265
+      spreadsheet walking candle_19: 7642523247786979121
+      spreadsheet walking candle_2: 8628214820438748761
+      spreadsheet walking candle_27: 4058589332912511504
+      spreadsheet walking candle_0: 4033854170570679099
+      spreadsheet walking candle_15: -5181985895743091949
+      spreadsheet walking candle_29: -8499179686502668414
+      spreadsheet walking candle_13: 6960346987514448576
+      spreadsheet walking candle_33: 3278269219607118989
+      spreadsheet walking candle_14: 49472573636556674
+      spreadsheet walking candle_21: 4118664938912549928
+      spreadsheet walking candle_34: -1715119424406588061
+      spreadsheet walking candle_18: 5906625304113842366
+      spreadsheet walking candle_9: -3961149248528789925
+      spreadsheet walking candle_8: 8336566850885912094
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

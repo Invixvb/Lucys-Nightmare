@@ -111,7 +111,7 @@ TextureImporter:
       213: 4161977475189791601
     second: spreadsheet walking_35
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -132,6 +132,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -140,9 +141,9 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
-    aniso: -1
-    mipBias: -100
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -163,11 +164,14 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -183,6 +187,30 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -962,6 +990,43 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      spreadsheet walking_25: 2335933830838116608
+      spreadsheet walking_7: 5577176748941491081
+      spreadsheet walking_35: 4161977475189791601
+      spreadsheet walking_30: -5953362418284567782
+      spreadsheet walking_13: -3524403216783012829
+      spreadsheet walking_28: 5844936852477252158
+      spreadsheet walking_10: -5976364458404367112
+      spreadsheet walking_29: -8751842753082433966
+      spreadsheet walking_23: -7864034217610298858
+      spreadsheet walking_1: 523863088461261565
+      spreadsheet walking_0: 176763631585334049
+      spreadsheet walking_8: -7420794713461856159
+      spreadsheet walking_16: 2372878613266272682
+      spreadsheet walking_21: -1275027225265901151
+      spreadsheet walking_33: 3838532781976431999
+      spreadsheet walking_3: -5641806053304686137
+      spreadsheet walking_12: -6827952230158298361
+      spreadsheet walking_24: 1298223548078727413
+      spreadsheet walking_2: 3984862527561646561
+      spreadsheet walking_17: 8949395257785865001
+      spreadsheet walking_32: 2451403668566450214
+      spreadsheet walking_19: 1355501240632658853
+      spreadsheet walking_18: 924354917125889929
+      spreadsheet walking_5: 8436457269048825982
+      spreadsheet walking_15: -5169732342293814165
+      spreadsheet walking_31: -3638407091255909339
+      spreadsheet walking_9: 7988530183761058710
+      spreadsheet walking_22: 111281624103986201
+      spreadsheet walking_11: 7220411930355307451
+      spreadsheet walking_14: -1325954066852549543
+      spreadsheet walking_34: -3838511576895660241
+      spreadsheet walking_4: -8505223146824099910
+      spreadsheet walking_6: -718325171886610397
+      spreadsheet walking_26: -1383224987189525658
+      spreadsheet walking_27: 7565331163588358813
+      spreadsheet walking_20: -9175891714446974274
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
